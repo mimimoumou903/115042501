@@ -43,7 +43,6 @@ h2 {
 }
 
 
-
 /* ⭐ 桌機版：左右各一半 */
 .intro-section {
   display: flex;
@@ -121,7 +120,6 @@ h2 {
     max-width: 280px;
   }
 }
-
 
 
 
@@ -359,7 +357,6 @@ h2 {
     height: 300px; /* 手機稍微矮一點 */
   }
 }
-
 
 
 
